@@ -1,0 +1,17 @@
+{
+	id: "1cae44c1-07af-3b0e-a757-4e84157d54d5"
+	type: "player"
+	player_name: "Fengdaiqi"
+	ranks: {
+		1cae44c1-07af-3b0e-a757-4e84157d54d5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Fengdaiqi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

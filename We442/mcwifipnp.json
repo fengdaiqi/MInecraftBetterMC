@@ -1,0 +1,13 @@
+{
+  "port": 2024,
+  "maxPlayers": 10,
+  "GameMode": "survival",
+  "motd": "HaKu",
+  "AllPlayersCheats": true,
+  "Whitelist": false,
+  "UseUPnP": true,
+  "AllowCommands": true,
+  "OnlineMode": false,
+  "PvP": false,
+  "CopyToClipboard": true
+}

@@ -1,0 +1,17 @@
+{
+	id: "79b64f78-dcfb-49c6-bb01-ffd51341eaf4"
+	type: "player"
+	player_name: "KaMyu"
+	ranks: {
+		79b64f78-dcfb-49c6-bb01-ffd51341eaf4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KaMyu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

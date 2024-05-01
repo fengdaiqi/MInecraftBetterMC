@@ -1,0 +1,17 @@
+{
+	id: "b4a0c80d-1367-3919-9682-466c6f212641"
+	type: "player"
+	player_name: "ash"
+	ranks: {
+		b4a0c80d-1367-3919-9682-466c6f212641: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ash"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

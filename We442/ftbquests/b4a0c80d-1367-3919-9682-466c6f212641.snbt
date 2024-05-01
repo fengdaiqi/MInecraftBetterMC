@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "b4a0c80d136739199682466c6f212641"
+	name: "ash#b4a0c80d"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1714453050294L
+		2574E7CF699D5B45: 1714453050294L
+		0470194500CBE26C: 1714453050294L
+		0000000000000001: 1714453050294L
+	}
+	completed: {
+		2574E7CF699D5B45: 1714453050309L
+		0470194500CBE26C: 1714453050309L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
