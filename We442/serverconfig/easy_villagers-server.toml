@@ -13,7 +13,7 @@
 	#The chance that a crop grows a stage in a farmer
 	#Lower values mean faster growth
 	#Range: > 1
-	farm_speed = 1
+	farm_speed = 10
 
 [iron_farm]
 	#The time in ticks the iron farm takes to spawn a golem
@@ -23,10 +23,10 @@
 [trader]
 	#The minimum amount of time in ticks the trader takes to restock
 	#Range: > 1
-	min_restock_time = 12
+	min_restock_time = 1200
 	#The maximum amount of time in ticks the trader takes to restock
 	#Range: > 2
-	max_restock_time = 36
+	max_restock_time = 3600
 
 [auto_trader]
 	#The minimum amount of time in ticks the auto trader takes to restock
@@ -37,7 +37,7 @@
 	max_restock_time = 36
 	#The cooldown in ticks for the auto trader to do a trade
 	#Range: > 1
-	trade_cooldown = 5
+	trade_cooldown = 1
 
 [villager]
 	#If villagers should make sounds while in the players inventory
